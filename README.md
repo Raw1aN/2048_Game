@@ -2,7 +2,7 @@
 
 
 
-
+This is 2048 game using only standart UIKit and Foundation tools
 
 
 
